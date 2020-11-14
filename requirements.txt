@@ -1,0 +1,7 @@
+requests~=2.21.0
+pandas~=0.24.2
+quandl~=3.5.1
+google-api-python-client~=1.12.5
+rake-nltk~=1.0.4
+google-cloud-storage~=1.32.0
+plotly~=4.7.1
